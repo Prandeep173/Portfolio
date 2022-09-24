@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+    background-color : black;
+}
+img{
+    margin:10px 0px;
+}
+#Div1{
+    background-color:rgb(19, 199, 199);
+    font-style: bold;
+    color: white;
+    padding : 10px 10px;
+    border: 15px solid white;
+}
+
+#Div2{
+    background-color:skyblue;
+    margin:20px 0px;
+}
+
+#Div3{
+    border:solid 2px orange;
+    background-color: white;
+    padding: 20px 20px;
+    margin:20px 0px;
+}
